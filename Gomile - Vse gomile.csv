@@ -1,0 +1,353 @@
+id,Dodatno,Verjetnost,Površina,Naklon terena,Razgibanost terena,Zaobljenost,Teren,Obdobje,V klastru,Najdišče,Def. robov mean,Osnovni model prekrivnost,Osnovni model+ Bosanski prekrivnost,Bosanski model prekrivnost,Gomile_Groblje model prekrivnost,Gomile model prekrivnost,Gomile_Groblje_OG_BiH model prekrivnost
+1,,3,40,"8,097456803","0,2246","1,301",Gozd,Sr. bron. doba,DA,Bukovca pri Zgornji Polskavi,"0,1159565814",NE,NE,NE,NE,NE,NE
+2,,3,29,"5,774847027","0,2246","1,19",Gozd,Sr. bron. doba,DA,Bukovca pri Zgornji Polskavi,"0,1028457607",NE,NE,NE,NE,NE,NE
+3,,3,47,"9,648297948","0,2246","1,448",Gozd,Sr. bron. doba,DA,Bukovca pri Zgornji Polskavi,"0,1290571345",NE,NE,NE,NE,NE,NE
+4,,2,20,"8,435599792","0,2246","1,09",Gozd,Sr. bron. doba,DA,Bukovca pri Zgornji Polskavi,"0,1099749682",NE,NE,NE,NE,NE,NE
+5,,3,59,"7,760621862","0,2246","1,107",Gozd,Sr. bron. doba,DA,Bukovca pri Zgornji Polskavi,"0,1393921391",NE,NE,NE,DA,NE,NE
+6,,3,51,"8,543736032","0,2246","1,047",Gozd,Sr. bron. doba,DA,Bukovca pri Zgornji Polskavi,"0,1100158438",NE,NE,NE,NE,NE,NE
+7,,3,1280,"17,20689755","0,16","1,016",Gozd,Železna doba,NE,Pivola,"0,0968242925",NE,NE,NE,NE,NE,NE
+8,,3,764,"20,89631634","0,16","1,125",Gozd,Železna doba,NE,Pivola,"0,2291224892",DA,DA,DA,DA,DA,DA
+9,,2,99,"18,02573823","0,16","1,067",Gozd,Železna doba,DA,Pivola,"0,1919126634",NE,NE,NE,NE,NE,DA
+10,,2,31,"7,565893453","0,16","1,04",Gozd,Železna doba,DA,Pivola,"0,1329142719",NE,NE,NE,NE,NE,NE
+11,,2,26,"7,015852701","0,16","1,037",Gozd,Železna doba,DA,Pivola,"0,1155429303",NE,NE,NE,NE,NE,NE
+12,,3,59,"9,838802987","0,16","1,008",Gozd,Železna doba,DA,Pivola,"0,1746978545",NE,DA,NE,DA,DA,DA
+13,,3,187,"9,72910789","0,16","1,012",Gozd,Železna doba,DA,Pivola,"0,156987516",DA,DA,DA,DA,DA,DA
+14,,3,310,"19,86134281","0,16","1,026",Gozd,Železna doba,DA,Pivola,"0,2395086972",DA,DA,DA,DA,NE,DA
+15,,3,244,"21,33435954","0,16","1,028",Gozd,Železna doba,DA,Pivola,"0,244811513",DA,DA,DA,DA,NE,DA
+16,,3,39,"11,99864946","0,16","1,033",Gozd,Železna doba,DA,Pivola,"0,2010957546",NE,NE,NE,NE,NE,NE
+17,,3,397,"21,03072405","0,16","1,19",Gozd,Železna doba,DA,Pivola,"0,3255458691",DA,DA,DA,DA,NE,DA
+18,,3,162,"8,122159371","0,16","1,016",Gozd,Železna doba,DA,Pivola,"0,1563398772",NE,DA,DA,DA,DA,DA
+19,,3,80,"7,89899387","0,16","1,029",Gozd,Železna doba,DA,Pivola,"0,1396200427",NE,DA,DA,DA,DA,DA
+20,,3,69,"8,371148289","0,16","1,032",Gozd,Železna doba,DA,Pivola,"0,1500401312",NE,NE,NE,DA,DA,DA
+21,,3,51,"10,7957509","0,16","1,025",Gozd,Železna doba,DA,Pivola,"0,1906882388",NE,NE,NE,DA,DA,DA
+22,,3,58,"6,623147652","0,16","1,027",Gozd,Železna doba,DA,Pivola,"0,1380456228",NE,NE,NE,NE,NE,NE
+23,,3,89,"8,20426656","0,16","1,076",Gozd,Železna doba,DA,Pivola,"0,164368514",NE,DA,NE,DA,DA,DA
+24,,3,140,"10,76314807","0,16","1,026",Gozd,Železna doba,DA,Pivola,"0,1337202533",DA,DA,DA,DA,DA,DA
+25,,3,36,"11,10623986","0,16","1,05",Gozd,Železna doba,DA,Pivola,"0,1576714082",NE,NE,NE,NE,NE,NE
+26,,3,412,"20,56216702","0,16","1,014",Gozd,Železna doba,DA,Pivola,"0,2320157783",DA,DA,DA,DA,NE,DA
+27,,3,203,"4,444076981","0,16","1,044",Gozd,Železna doba,DA,Pivola,"0,1013992455",NE,NE,NE,NE,NE,NE
+28,,3,77,"11,99370299","0,16","1,044",Gozd,Železna doba,DA,Pivola,"0,1801628993",NE,DA,DA,DA,DA,DA
+29,,3,101,"11,08832738","0,16","1,018",Gozd,Železna doba,DA,Pivola,"0,1908705241",DA,DA,DA,DA,DA,DA
+30,,3,188,"17,11736784","0,16","1,015",Gozd,Železna doba,DA,Pivola,"0,2180710162",DA,DA,DA,DA,DA,DA
+31,,2,47,"9,33137346","0,16","1,175",Gozd,Železna doba,DA,Pivola,"0,2348563236",NE,NE,NE,NE,NE,NE
+32,,3,174,"15,29986494","0,16","1,017",Gozd,Železna doba,DA,Pivola,"0,2112507165",DA,DA,DA,DA,DA,DA
+33,,3,297,"17,56038629","0,16","1,028",Gozd,Železna doba,DA,Pivola,"0,2208805008",DA,DA,DA,DA,DA,DA
+34,,3,272,"14,5588764","0,16","1,019",Gozd,Železna doba,DA,Pivola,"0,1945397689",DA,DA,DA,DA,DA,DA
+35,,3,87,"10,61087807","0,16","1,031",Gozd,Železna doba,DA,Pivola,"0,1899769831",NE,NE,NE,NE,NE,DA
+36,,3,312,"17,16089162","0,16","1,03",Gozd,Železna doba,DA,Pivola,"0,2032819155",DA,DA,DA,DA,DA,DA
+37,,2,128,"11,98703924","0,16","1,036",Gozd,Železna doba,DA,Pivola,"0,1927225646",NE,DA,NE,DA,NE,DA
+38,,2,58,"7,443749783","0,16","1,061",Gozd,Železna doba,DA,Pivola,"0,09856207594",NE,NE,NE,NE,NE,NE
+39,,2,50,"10,76595742","0,16","1,015",Gozd,Železna doba,DA,Pivola,"0,1278728096",NE,NE,NE,NE,NE,DA
+40,,3,44,"6,461398028","0,16","1,054",Gozd,Železna doba,DA,Pivola,"0,134615208",NE,NE,NE,NE,NE,NE
+41,,3,56,"7,457493634","0,16","1,088",Gozd,Železna doba,DA,Pivola,"0,1435898757",NE,NE,NE,NE,NE,NE
+42,,3,67,"8,308170459","0,16","1,054",Gozd,Železna doba,DA,Pivola,"0,161524669",NE,NE,NE,NE,NE,DA
+43,,2,60,"7,352098371","0,16","1,166",Gozd,Železna doba,DA,Pivola,"0,1061967716",NE,NE,NE,NE,NE,NE
+44,,3,39,"6,289793395","0,16","1,023",Gozd,Železna doba,DA,Pivola,"0,1205951321",NE,NE,NE,NE,DA,DA
+45,,2,45,"8,217812203","0,16","1,033",Gozd,Železna doba,DA,Pivola,"0,1145364223",NE,NE,NE,NE,NE,NE
+46,,3,61,"5,921753138","0,16","1,023",Gozd,Železna doba,DA,Pivola,"0,08989736811",NE,NE,NE,NE,NE,NE
+47,,3,622,"10,18314466","0,16","1,071",Gozd,Železna doba,DA,Pivola,"0,1436076925",NE,NE,NE,NE,NE,NE
+48,,3,163,"7,244699064","0,16","1,024",Gozd,Železna doba,DA,Pivola,"0,1167709664",DA,DA,DA,DA,DA,DA
+49,,3,414,"21,4621301","0,3","1,096",Gozd,Železna doba,DA,Pivola,"0,3401838949",NE,NE,NE,DA,NE,NE
+50,,3,431,"17,66686791","0,16","1,073",Gozd,Železna doba,DA,Pivola,"0,2846391372",NE,NE,NE,DA,NE,DA
+51,,3,164,"24,95333728","0,16","1,178",Gozd,Železna doba,DA,Pivola,"0,2577192383",NE,NE,NE,DA,NE,NE
+52,,3,352,"22,56177899","0,16","1,104",Gozd,Železna doba,DA,Pivola,"0,3390876122",NE,NE,NE,DA,NE,NE
+53,,3,72,"17,89639241","0,16","1,06",Gozd,Železna doba,DA,Pivola,"0,304231559",NE,NE,NE,DA,NE,NE
+54,,3,93,"14,75289304","0,16","1,114",Gozd,Železna doba,DA,Pivola,"0,2794132917",NE,NE,NE,DA,NE,NE
+55,,3,79,"15,0391095","0,16","1,123",Gozd,Železna doba,DA,Pivola,"0,3121734766",NE,NE,NE,DA,NE,NE
+56,,3,67,"14,30711654","0,16","1,113",Gozd,Železna doba,DA,Pivola,"0,2217710343",NE,NE,NE,DA,NE,DA
+57,,3,35,"12,59260573","0,16","1,222",Gozd,Železna doba,DA,Pivola,"0,3176457807",NE,NE,NE,NE,NE,NE
+58,,3,34,"15,82777128","0,16","1,053",Gozd,Železna doba,DA,Pivola,"0,2333503721",NE,NE,NE,NE,NE,NE
+59,,2,22,"14,75338781","0,16","1,062",Gozd,Železna doba,DA,Pivola,"0,2210338735",NE,NE,NE,NE,NE,NE
+60,,3,58,"7,733472212","0,16","1,026",Gozd,Železna doba,DA,Pivola,"0,1498273459",NE,NE,NE,NE,NE,NE
+61,,3,247,"4,13590492","0,124","1,049",Polje,Železna doba,NE,Pivola,"0,0382383591",NE,NE,NE,NE,NE,NE
+62,,3,173,"7,38286259","0,124","1,025",Polje,Železna doba,NE,Pivola,"0,1035073371",NE,NE,NE,NE,NE,NE
+63,,3,157,"3,249811406","0,124","1,028",Polje,Železna doba,NE,Pivola,"0,03667703597",NE,NE,NE,NE,NE,NE
+64,,3,516,"6,177527265","0,124","1,02",Polje,Železna doba,NE,Pivola,"0,04245806648",NE,NE,NE,NE,NE,NE
+65,,3,192,"5,348897916","0,124","1,048",Polje,Železna doba,NE,Pivola,"0,07587256524",NE,NE,NE,NE,NE,NE
+66,,3,505,"4,298223918","0,124","1,035",Polje,Železna doba,NE,Pivola,"0,04467451267",NE,NE,NE,NE,NE,NE
+67,,3,56,"5,709039181","0,16","1,05",Gozd,Železna doba,DA,Pivola,"0,09755583135",NE,NE,NE,NE,NE,NE
+68,,3,77,"5,309628131","0,16","1,139",Gozd,Železna doba,DA,Pivola,"0,09924316475",NE,NE,NE,NE,NE,NE
+69,,2,78,"4,823487097","0,16","1,055",Gozd,Železna doba,DA,Pivola,"0,07982870485",NE,NE,NE,NE,NE,NE
+70,,3,79,"8,95340162","0,16","1,034",Gozd,Železna doba,DA,Pivola,"0,1461131487",NE,NE,NE,DA,NE,DA
+71,,3,156,"5,091019529","0,16","1,029",Gozd,Železna doba,DA,Pivola,"0,1099601713",NE,NE,NE,NE,NE,NE
+72,,3,44,"7,239531182","0,16","1,024",Gozd,Železna doba,DA,Pivola,"0,1413792362",NE,NE,NE,NE,NE,NE
+73,,1,109,"5,342304394","0,16","1,036",Gozd,Železna doba,DA,Pivola,"0,09573387326",NE,NE,NE,NE,NE,NE
+74,,3,655,"20,1043798","0,16","1,038",Gozd,Železna doba,DA,Pivola,"0,2234415496",DA,DA,DA,DA,DA,DA
+75,,2,32,"5,111678706","0,16","1,073",Gozd,Železna doba,DA,Pivola,"0,1047616624",NE,NE,NE,NE,NE,NE
+76,,3,336,"4,850519049","0,124","1,107",Gozd,Železna doba,NE,Pivola,"0,05375392028",NE,NE,NE,NE,NE,NE
+77,,3,62,"9,787259197","0,3","1,029",Gozd,Železna doba,DA,Habakuk,"0,137493907",DA,DA,DA,DA,DA,DA
+78,,3,106,"8,835403131","0,3","1,014",Gozd,Železna doba,DA,Habakuk,"0,1526093249",DA,DA,DA,DA,DA,DA
+79,,3,80,"7,482230111","0,3","1,026",Gozd,Železna doba,DA,Habakuk,"0,1107452198",NE,DA,NE,DA,DA,DA
+80,,3,77,"8,532885178","0,3","1,036",Gozd,Železna doba,DA,Habakuk,"0,1511968599",NE,DA,DA,DA,DA,DA
+81,,3,107,"9,778634539","0,3","1,02",Gozd,Železna doba,DA,Habakuk,"0,1457216671",DA,DA,DA,DA,DA,DA
+82,,3,197,"12,22458547","0,3","1,014",Gozd,Železna doba,DA,Habakuk,"0,1587199321",DA,DA,DA,DA,DA,DA
+83,,3,75,"9,736359852","0,3","1,014",Gozd,Železna doba,DA,Habakuk,"0,1515030101",NE,DA,DA,DA,DA,DA
+84,,3,38,"8,86329096","0,3","1,034",Gozd,Železna doba,DA,Habakuk,"0,0935101237",NE,NE,NE,NE,NE,DA
+85,,3,71,"11,5835947","0,3","1,027",Gozd,Železna doba,DA,Habakuk,"0,1505039571",NE,DA,DA,DA,DA,DA
+86,,2,26,"13,44788659","0,3","1,025",Gozd,Železna doba,DA,Habakuk,"0,1058577928",NE,NE,NE,NE,NE,NE
+87,,2,30,"9,833886559","0,3","1,151",Gozd,Železna doba,NE,Habakuk,"0,1552684794",NE,NE,NE,NE,NE,NE
+88,,3,336,"22,33203147","0,35","1,041",Gozd,Železna doba,DA,Habakuk,"0,2665408098",NE,NE,NE,DA,DA,DA
+89,,3,130,"10,75555714","0,35","1,047",Gozd,Železna doba,DA,Habakuk,"0,1641633647",NE,NE,NE,DA,DA,DA
+90,,3,62,"10,8197546","0,35","1,025",Gozd,Železna doba,DA,Habakuk,"0,1981802936",NE,NE,NE,DA,DA,DA
+91,,3,33,"16,33673273","0,35","1,02",Gozd,Železna doba,DA,Habakuk,"0,4212691768",NE,NE,NE,NE,NE,NE
+92,,3,109,"14,33144793","0,35","1,019",Gozd,Železna doba,DA,Habakuk,"0,2214322843",DA,NE,NE,DA,DA,DA
+93,,2,124,"19,67824069","0,55","1,161",Gozd,Železna doba,NE,Habakuk,"0,4761140139",NE,NE,NE,NE,NE,NE
+94,,3,103,"12,38440637","0,35","1,165",Gozd,Železna doba,DA,Habakuk,"0,2041604289",NE,NE,NE,DA,DA,DA
+95,,3,112,"15,1651659","0,35","1,079",Gozd,Železna doba,DA,Habakuk,"0,2223844555",DA,DA,NE,DA,DA,DA
+96,,3,98,"10,7081572","0,35","1,027",Gozd,Železna doba,DA,Habakuk,"0,1630025274",NE,DA,NE,DA,DA,DA
+97,,3,50,"12,86766539","0,35","1,013",Gozd,Železna doba,DA,Habakuk,"0,1843331072",DA,NE,NE,DA,DA,DA
+98,,3,25,"10,46636648","0,35","1,012",Gozd,Železna doba,DA,Habakuk,"0,1160080213",NE,NE,NE,NE,NE,NE
+99,,3,67,"11,10787132","0,35","1,043",Gozd,Železna doba,DA,Habakuk,"0,1430898107",NE,NE,NE,DA,DA,DA
+100,,3,33,"8,513990408","0,35","1,012",Gozd,Železna doba,DA,Habakuk,"0,1038358664",NE,NE,NE,NE,DA,DA
+101,,2,25,"9,753702997","0,35","1,035",Gozd,Železna doba,DA,Habakuk,"0,1109342478",NE,NE,NE,NE,NE,NE
+102,,3,23,"10,03918247","0,35","1,013",Gozd,Železna doba,DA,Habakuk,"0,1345483289",NE,NE,NE,NE,DA,DA
+103,,3,31,"9,717677637","0,35","1,145",Gozd,Železna doba,DA,Habakuk,"0,1264280397",NE,NE,NE,DA,DA,DA
+104,,3,28,"12,07021744","0,35","1,013",Gozd,Železna doba,DA,Habakuk,"0,1363936473",NE,NE,NE,NE,DA,DA
+105,,3,8,"12,3165373","0,35","1,031",Gozd,Železna doba,DA,Habakuk,"0,109050968",NE,NE,NE,NE,NE,NE
+106,,2,20,"10,46869018","0,35","1,068",Gozd,Železna doba,DA,Habakuk,"0,1015473762",NE,NE,NE,NE,NE,NE
+107,,2,100,"20,63833995","0,35","1,023",Gozd,Železna doba,DA,Habakuk,"0,3880083097",NE,NE,NE,NE,NE,NE
+108,,3,109,"11,08832809","0,35","1,017",Gozd,Železna doba,DA,Habakuk,"0,202255896",NE,NE,DA,DA,DA,DA
+109,,3,36,"12,04977174","0,32","1,059",Gozd,Železna doba,DA,Tupaliče,"0,1391923737",NE,NE,NE,NE,NE,DA
+110,,3,56,"13,96763482","0,32","1,466",Gozd,Železna doba,DA,Tupaliče,"0,1395550956",NE,NE,NE,NE,NE,NE
+111,,3,34,"10,16686825","0,32","1,048",Gozd,Železna doba,DA,Tupaliče,"0,1414522522",NE,NE,NE,NE,NE,NE
+112,,3,35,"13,03670773","0,32","1,065",Gozd,Železna doba,DA,Tupaliče,"0,200895666",NE,NE,NE,NE,DA,DA
+113,,3,31,"12,59211734","0,32","1,06",Gozd,Železna doba,DA,Tupaliče,"0,2076329211",NE,NE,NE,NE,DA,DA
+114,,3,58,"16,28830861","0,32","1,042",Gozd,Železna doba,DA,Tupaliče,"0,2260384738",NE,NE,NE,NE,DA,DA
+115,,3,40,"14,04091975","0,32","1,027",Gozd,Železna doba,DA,Tupaliče,"0,160884518",NE,NE,NE,NE,NE,NE
+116,,2,34,"9,966222417","0,32","1,073",Gozd,Železna doba,DA,Tupaliče,"0,1258311385",NE,NE,NE,NE,NE,NE
+117,,3,25,"14,64729202","0,32","1,05",Gozd,Železna doba,DA,Tupaliče,"0,1796570537",NE,NE,NE,NE,NE,DA
+118,,3,55,"13,68810544","0,32","1,021",Gozd,Železna doba,DA,Tupaliče,"0,241077438",NE,DA,NE,DA,DA,DA
+119,,3,45,"13,39596772","0,32","1,128",Gozd,Železna doba,DA,Tupaliče,"0,2352054891",NE,NE,NE,DA,DA,DA
+120,,3,47,"11,61969306","0,32","1,069",Gozd,Železna doba,DA,Tupaliče,"0,176298283",NE,NE,NE,DA,DA,DA
+121,,3,28,"10,83370665","0,32","1,095",Gozd,Železna doba,DA,Tupaliče,"0,1510063394",NE,NE,NE,NE,NE,NE
+122,,2,25,"7,938874267","0,32","1,029",Gozd,Železna doba,DA,Tupaliče,"0,1076329026",NE,NE,NE,NE,NE,DA
+123,,3,26,"8,537705833","0,32","1,029",Gozd,Železna doba,DA,Tupaliče,"0,116238452",NE,NE,NE,NE,NE,NE
+124,,3,88,"10,89854051","0,32","1,031",Gozd,Železna doba,DA,Tupaliče,"0,1293646381",NE,NE,NE,DA,DA,DA
+125,,2,40,"7,57496021","0,32","1,04",Gozd,Železna doba,DA,Tupaliče,"0,111441603",NE,NE,NE,NE,NE,NE
+126,,3,46,"10,07017404","0,32","1,026",Gozd,Železna doba,DA,Tupaliče,"0,113390625",NE,NE,NE,NE,NE,NE
+127,,3,22,"8,090353008","0,32","1,02",Gozd,Železna doba,DA,Tupaliče,"0,1153237101",NE,NE,NE,NE,NE,NE
+128,,2,35,"11,30766447","0,32","1,093",Gozd,Železna doba,DA,Tupaliče,"0,146879421",NE,NE,NE,NE,NE,NE
+129,,3,34,"10,88047203","0,32","1,03",Gozd,Železna doba,DA,Tupaliče,"0,1570319819",NE,NE,NE,NE,DA,DA
+130,,3,72,"10,77990426","0,32","1,031",Gozd,Železna doba,DA,Tupaliče,"0,1762038568",NE,NE,NE,DA,DA,DA
+131,,3,37,"8,826824946","0,32","1,054",Gozd,Železna doba,DA,Tupaliče,"0,1451263865",NE,NE,NE,NE,NE,NE
+132,,2,37,"4,75032645","0,32","1,194",Gozd,Železna doba,DA,Tupaliče,"0,17199315",NE,NE,NE,NE,NE,NE
+133,,2,15,"9,157984018","0,32","1,135",Gozd,Železna doba,DA,Tupaliče,"0,1325095018",NE,NE,NE,NE,NE,NE
+134,,3,50,"10,72081242","0,32","1,035",Gozd,Železna doba,DA,Tupaliče,"0,13309231",NE,NE,NE,DA,DA,DA
+135,,3,28,"9,484725389","0,32","1,073",Gozd,Železna doba,DA,Tupaliče,"0,1434714982",NE,NE,NE,NE,NE,DA
+136,,3,66,"10,1065232","0,32","1,032",Gozd,Železna doba,DA,Tupaliče,"0,140035982",NE,NE,NE,DA,DA,DA
+137,,3,47,"8,21892517","0,32","1,042",Gozd,Železna doba,DA,Tupaliče,"0,162681172",NE,NE,NE,NE,NE,NE
+138,,2,129,"13,96367666","0,32","1,054",Gozd,Železna doba,DA,Tupaliče,"0,2036981497",NE,NE,NE,NE,NE,NE
+139,,2,56,"14,07600491","0,32","1,085",Gozd,Železna doba,DA,Tupaliče,"0,1434514575",NE,NE,NE,NE,NE,NE
+140,,3,47,"7,593594066","0,32","1,067",Gozd,Železna doba,DA,Tupaliče,"0,1058080662",NE,NE,NE,NE,NE,NE
+141,,3,49,"10,98628102","0,32","1,035",Gozd,Železna doba,DA,Tupaliče,"0,1747783837",NE,NE,NE,NE,NE,DA
+142,,2,26,"10,14740324","0,32","1,049",Gozd,Železna doba,DA,Tupaliče,"0,1143608564",NE,NE,NE,NE,NE,NE
+143,,3,819,"15,19872496","0,22","1,924",Polje,Železna doba,NE,Vir pri Stični,"0,06351757952",DA,NE,NE,NE,NE,NE
+144,,3,1497,"15,18443545","0,22","1,054",Polje,Železna doba,NE,Vir pri Stični,"0,1449549993",DA,DA,DA,NE,NE,NE
+145,,3,646,"2,281124614","0,22","1,171",Polje,Železna doba,DA,Vir pri Stični,"0,03551983382",NE,NE,NE,NE,NE,NE
+146,,3,358,"2,659082012","0,22","1,021",Polje,Železna doba,DA,Vir pri Stični,"0,02605434365",NE,NE,NE,NE,NE,NE
+147,,2,452,"2,506066784","0,22","1,111",Polje,Železna doba,DA,Vir pri Stični,"0,03019715584",NE,NE,NE,NE,NE,NE
+148,,2,500,"2,833269165","0,22","1,153",Polje,Železna doba,DA,Vir pri Stični,"0,02515309534",NE,NE,NE,NE,NE,NE
+149,,3,670,"3,526525368","0,22","1,12",Polje,Železna doba,DA,Vir pri Stični,"0,02794165283",NE,NE,NE,NE,NE,NE
+150,,2,533,"8,688387525","0,22","1,138",Polje,Železna doba,DA,Vir pri Stični,"0,0628678104",NE,NE,NE,NE,NE,NE
+151,,3,165,"3,732573914","0,22","1,023",Polje,Železna doba,DA,Vir pri Stični,"0,0433610308",NE,NE,NE,NE,NE,NE
+152,,3,819,"5,561032939","0,22","1,054",Polje,Železna doba,DA,Vir pri Stični,"0,03675217878",NE,NE,NE,NE,NE,NE
+153,,3,698,"5,726176608","0,22","1,316",Polje,Železna doba,DA,Vir pri Stični,"0,05601954535",NE,NE,NE,NE,NE,NE
+154,,3,623,"4,153669019","0,22","1,138",Polje,Železna doba,DA,Vir pri Stični,"0,03909631455",NE,NE,NE,NE,NE,NE
+155,,3,574,"5,780045752","0,22","1,071",Polje,Železna doba,DA,Vir pri Stični,"0,04161305303",NE,NE,NE,NE,NE,NE
+156,,3,367,"5,059074297","0,22","1,05",Polje,Železna doba,DA,Vir pri Stični,"0,03263413063",NE,NE,NE,NE,NE,NE
+157,,3,346,"3,553722879","0,22","1,025",Polje,Železna doba,DA,Vir pri Stični,"0,05358280199",NE,NE,NE,NE,NE,NE
+158,,3,172,"2,819789891","0,22","1,033",Polje,Železna doba,DA,Vir pri Stični,"0,04150216736",NE,NE,NE,NE,NE,NE
+159,,3,567,"6,700143959","0,22","1,041",Polje,Železna doba,DA,Vir pri Stični,"0,06859458866",NE,NE,NE,NE,NE,NE
+160,,3,401,"3,226626672","0,22","1,05",Polje,Železna doba,DA,Vir pri Stični,"0,05166053827",NE,NE,NE,NE,NE,NE
+161,,3,827,"4,261709369","0,22","1,061",Polje,Železna doba,DA,Vir pri Stični,"0,05222304664",NE,NE,NE,NE,NE,NE
+162,,3,663,"13,92177239","0,22","1,119",Gozd,Železna doba,NE,Vir pri Stični,"0,09465906858",DA,DA,DA,DA,DA,DA
+163,,3,554,"6,104848636","0,22","1,381",Polje,Železna doba,DA,Vir pri Stični,"0,07233518784",NE,NE,NE,NE,NE,NE
+164,,3,75,"8,710023935","0,22","1,029",Polje,Železna doba,DA,Vir pri Stični,"0,2271593924",NE,NE,NE,NE,NE,NE
+165,,2,127,"16,28947874","0,22","1,081",Polje,Železna doba,DA,Vir pri Stični,"0,1630731958",NE,NE,NE,NE,NE,NE
+166,,3,929,"10,99891222","0,22","1,051",Polje,Železna doba,DA,Vir pri Stični,"0,2865242226",NE,NE,NE,NE,NE,NE
+167,,3,498,"9,89393211","0,22","1,102",Polje,Železna doba,DA,Vir pri Stični,"0,0328451819",NE,NE,NE,NE,NE,NE
+168,,3,359,"5,943364524","0,22","1,085",Polje,Železna doba,DA,Vir pri Stični,"0,0379662421",NE,NE,NE,NE,NE,NE
+169,,2,315,"7,350194662","0,22","1,023",Polje,Železna doba,DA,Vir pri Stični,"0,04051988124",NE,NE,NE,NE,NE,NE
+170,,2,413,"3,866550781","0,22","1,026",Polje,Železna doba,DA,Vir pri Stični,"0,05691764892",NE,NE,NE,NE,NE,NE
+171,,3,945,"9,688314205","0,22","1,028",Polje,Železna doba,DA,Vir pri Stični,"0,0582669767",NE,NE,NE,NE,NE,NE
+172,,3,294,"11,18315257","0,22","1,042",Polje,Železna doba,DA,Vir pri Stični,"0,1247118531",NE,NE,NE,NE,NE,NE
+173,,3,1238,"12,97063363","0,22","1,049",Polje,Železna doba,DA,Vir pri Stični,"0,1732092689",NE,NE,NE,NE,NE,NE
+174,,3,1334,"20,851804","0,22","1,054",Gozd,Železna doba,DA,Vir pri Stični,"0,2294197895",NE,NE,NE,NE,NE,NE
+175,,3,647,"20,52206413","0,22","1,082",Gozd,Železna doba,DA,Vir pri Stični,"0,2196437085",DA,NE,NE,NE,NE,NE
+176,,3,1166,"21,16152955","0,22","1,034",Gozd,Železna doba,DA,Vir pri Stični,"0,2390879901",DA,NE,NE,NE,NE,NE
+177,,3,234,"18,5878311","0,22","1,039",Gozd,Železna doba,DA,Vir pri Stični,"0,2449765918",NE,NE,NE,DA,NE,NE
+178,,3,207,"7,030938577","0,22","1,154",Gozd,Železna doba,DA,Vir pri Stični,"0,1274585922",NE,NE,NE,NE,NE,NE
+179,,3,305,"18,49550773","0,22","1,048",Gozd,Železna doba,DA,Vir pri Stični,"0,2817071846",NE,NE,NE,NE,NE,NE
+180,,3,783,"9,776059648","0,22","1,078",Polje,Železna doba,DA,Vir pri Stični,"0,07041029916",NE,NE,NE,NE,NE,NE
+181,,3,664,"9,347422672","0,22","1,071",Polje,Železna doba,DA,Vir pri Stični,"0,06928345844",NE,NE,NE,NE,NE,NE
+182,,3,189,"8,715769438","0,22","1,056",Polje,Železna doba,DA,Vir pri Stični,"0,07295689238",NE,NE,NE,NE,NE,NE
+183,,3,75,"10,71493031","0,22","1,106",Polje,Železna doba,DA,Vir pri Stični,"0,1218836269",NE,NE,NE,NE,NE,NE
+184,,3,127,"8,318368464","0,22","1,094",Polje,Železna doba,DA,Vir pri Stični,"0,04342968172",NE,NE,NE,NE,NE,NE
+185,,3,110,"12,71304288","0,22","1,057",Polje,Železna doba,NE,Vir pri Stični,"0,1278455764",NE,NE,NE,NE,NE,NE
+186,,2,1878,"8,678505333","0,22","1,091",Polje,Železna doba,NE,Vir pri Stični,"0,0473160319",NE,NE,NE,NE,NE,NE
+187,,2,95,"9,856852935","0,22","1,027",Gozd,Železna doba,NE,Vir pri Stični,"0,1244934295",NE,NE,NE,NE,NE,NE
+188,,3,90,"9,996482691","0,22","1,083",Gozd,Železna doba,DA,Vir pri Stični,"0,1431545358",NE,NE,NE,NE,NE,NE
+189,,3,89,"12,22636738","0,22","1,056",Gozd,Železna doba,DA,Vir pri Stični,"0,2150181116",NE,NE,NE,NE,NE,NE
+190,,3,67,"9,862363613","0,22","1,087",Gozd,Železna doba,DA,Vir pri Stični,"0,143930193",NE,NE,NE,NE,NE,NE
+191,,3,60,"12,25682909","0,22","1,035",Gozd,Železna doba,DA,Vir pri Stični,"0,2942732856",NE,NE,NE,NE,NE,NE
+192,,3,43,"16,3158397","0,22","1,116",Gozd,Železna doba,DA,Vir pri Stični,"0,2908142534",NE,NE,NE,NE,NE,NE
+193,,3,71,"16,47397554","0,22","1,045",Gozd,Železna doba,DA,Vir pri Stični,"0,2742914706",NE,NE,NE,NE,NE,NE
+194,,2,426,"5,550187405","0,22","1,064",Polje,Železna doba,DA,Vir pri Stični,"0,04393573855",NE,NE,NE,NE,NE,NE
+195,,2,232,"11,39820813","0,22","1,065",Polje,Železna doba,DA,Vir pri Stični,"0,03694813032",NE,NE,NE,NE,NE,NE
+196,,2,670,"4,435866533","0,22","1,041",Polje,Železna doba,DA,Vir pri Stični,"0,04853394572",NE,NE,NE,NE,NE,NE
+197,,2,649,"3,92369128","0,22","1,041",Polje,Železna doba,DA,Vir pri Stični,"0,02463927262",NE,NE,NE,NE,NE,NE
+198,,2,281,"5,434139407","0,22","1,075",Polje,Železna doba,DA,Vir pri Stični,"0,04058973267",NE,NE,NE,NE,NE,NE
+199,,2,714,"4,50057299","0,22","1,023",Polje,Železna doba,DA,Vir pri Stični,"0,02734994978",NE,NE,NE,NE,NE,NE
+200,,2,100,"11,07028591","0,22","1,024",Polje,Železna doba,DA,Vir pri Stični,"0,1023793245",NE,NE,NE,NE,NE,NE
+201,,3,42,"13,77398298","0,22","1,044",Polje,Železna doba,DA,Vir pri Stični,"0,08410711568",NE,NE,NE,NE,NE,NE
+202,,3,151,"9,169148622","0,22","1,044",Polje,Železna doba,DA,Vir pri Stični,"0,07284873325",NE,NE,NE,NE,NE,NE
+203,,2,233,"1,233525653","0,22","1,088",Polje,Železna doba,NE,Vir pri Stični,"0,03200866278",NE,NE,NE,NE,NE,NE
+204,1,3,112,15,"0,4","1,045",Gozd,Rim,DA,Brengova v Anžlvem gozdu,"0,2138668924",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+205,1,3,50,"16,84977511","0,4","1,035",Gozd,Rim,DA,Brengova v Anžlvem gozdu,"0,2133765084",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+206,1,3,50,"18,78486405","0,4","1,056",Gozd,Rim,DA,Brengova v Anžlvem gozdu,"0,2527695717",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+207,1,3,35,"16,80851522","0,4","1,042",Gozd,Rim,DA,Brengova v Anžlvem gozdu,"0,2884483797",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+208,,3,45,"15,20694771","0,4","1,169",Gozd,Rim,DA,Brengova v Anžlvem gozdu,"0,205796469",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+209,,3,102,"17,77825254","0,4","1,035",Gozd,Rim,DA,Brengova v Anžlvem gozdu,"0,2791924052",DA,DA,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+210,,3,50,"15,77854475","0,4","1,038",Gozd,Rim,DA,Brengova v Anžlvem gozdu,"0,2674703483",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+211,,3,87,"19,26686992","0,4","1,022",Gozd,Rim,DA,Brengova v Anžlvem gozdu,"0,252859501",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+212,,3,37,"16,59104511","0,4","1,11",Gozd,Rim,DA,Brengova v Anžlvem gozdu,"0,2323231035",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+213,,3,117,"20,05878723","0,291","1,104",Gozd,Rim,NE,Brengova v Anžlvem gozdu,"0,3040726527",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+214,,2,33,"20,24613368","0,4","1,518",Gozd,Rim,DA,Brengova v Anžlvem gozdu,"0,2587917887",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+215,,3,70,"15,95251927","0,4","1,194",Gozd,Rim,DA,Brengova v Anžlvem gozdu,"0,2471186514",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+216,,3,254,"8,623837526","0,26","1,025",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,08094677336",NE,DA,NE,DA,NE,DA
+217,,3,277,"7,262350854","0,26","1,034",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,06719789119",NE,DA,NE,NE,NE,NE
+218,,3,156,"11,30112262","0,26","1,065",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,1579628554",NE,NE,NE,NE,NE,NE
+219,,3,84,"10,36170448","0,26","1,093",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,1243635039",NE,NE,NE,NE,NE,NE
+220,,3,108,"10,46105305","0,26","1,048",Gozd,Železna doba,DA,Cvinger pri Dolenjskih Toplicah,"0,1428204684",NE,NE,NE,NE,NE,NE
+221,,2,146,"13,77487236","0,26","1,174",Gozd,Železna doba,DA,Cvinger pri Dolenjskih Toplicah,"0,2082688922",NE,NE,NE,NE,NE,NE
+222,,2,62,"9,91444205","0,26","1,078",Gozd,Železna doba,DA,Cvinger pri Dolenjskih Toplicah,"0,1600574688",NE,NE,NE,NE,NE,NE
+223,,3,66,"13,63774131","0,26","1,049",Gozd,Železna doba,DA,Cvinger pri Dolenjskih Toplicah,"0,2212727842",NE,NE,NE,NE,NE,NE
+224,,2,50,"8,57168656","0,26","1,175",Gozd,Železna doba,DA,Cvinger pri Dolenjskih Toplicah,"0,2007926992",NE,NE,NE,NE,NE,NE
+225,,2,41,"8,940438791","0,26","1,101",Gozd,Železna doba,DA,Cvinger pri Dolenjskih Toplicah,"0,22529775",NE,NE,NE,NE,NE,NE
+226,,3,85,"10,68332873","0,26","1,048",Gozd,Železna doba,DA,Cvinger pri Dolenjskih Toplicah,"0,1567506925",NE,NE,NE,NE,NE,NE
+227,,3,105,"11,0006196","0,26","1,939",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,167946906",NE,NE,NE,NE,NE,NE
+228,,3,196,"12,25233301","0,26","1,021",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,1517662558",NE,NE,NE,NE,NE,NE
+229,,2,160,"17,05726669","0,26","1,057",Travnik,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,2508219612",NE,NE,NE,NE,NE,NE
+230,,2,152,"14,56729047","0,26","1,159",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,2138265205",NE,NE,NE,NE,NE,NE
+231,,3,127,"8,703303533","0,26","1,074",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,1732756152",NE,NE,NE,NE,NE,NE
+232,,2,83,"7,620166876","0,26","1,186",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,1187742607",NE,NE,NE,NE,NE,NE
+233,,2,87,"5,999336411","0,26","1,028",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,09630996545",NE,NE,NE,NE,NE,NE
+234,,3,205,"12,07958021","0,26","1,029",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,1823531502",NE,NE,NE,NE,NE,NE
+235,,3,144,"13,7336104","0,26","1,022",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,1906902135",NE,NE,NE,NE,NE,NE
+236,,3,156,"7,172235466","0,26","1,036",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,09613607773",NE,NE,DA,NE,NE,NE
+237,,3,94,"10,60609634","0,26","1,076",Gozd,Železna doba,NE,Cvinger pri Dolenjskih Toplicah,"0,2452760761",NE,NE,NE,NE,DA,NE
+238,1,3,48,"17,87426093","0,37","1,049",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,2339600575",NE,NE,NE,DA,DA,DA
+239,1,3,38,"18,25789403","0,37","1,046",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1950503807",NE,NE,NE,NE,NE,NE
+240,1,3,65,"15,12902331","0,37","1,033",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1679865469",NE,NE,NE,NE,NE,NE
+241,1,3,31,"14,55315697","0,37","1,049",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,11886185",NE,NE,NE,NE,NE,NE
+242,1,3,30,"11,28134505","0,37","1,044",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1770110912",NE,NE,NE,NE,NE,NE
+243,1,3,44,"11,69440993","0,37","1,049",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1365843516",NE,NE,NE,NE,NE,DA
+244,,3,25,"15,10128661","0,37","1,053",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,2031782095",NE,NE,NE,NE,NE,NE
+245,,3,57,"17,09785481","0,37","1,042",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1681015497",NE,NE,NE,DA,NE,DA
+246,,2,32,"17,75828332","0,37","1,17",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1467213936",NE,NE,NE,NE,NE,NE
+247,,2,21,"15,63148616","0,37","1,068",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1316968484",NE,NE,NE,NE,NE,NE
+248,,2,31,"15,15295459","0,37","1,038",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1246097571",NE,NE,NE,NE,NE,NE
+249,,3,48,"17,12105904","0,37","1,032",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,2615760113",NE,NE,NE,NE,NE,NE
+250,,2,47,"15,47873089","0,37","1,057",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1187740495",NE,NE,NE,NE,NE,NE
+251,,3,45,"15,42929336","0,37","1,033",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1086729887",NE,NE,NE,NE,NE,NE
+252,,3,54,"18,8516114","0,37","1,055",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1681752558",NE,NE,NE,NE,NE,NE
+253,,3,43,"16,0934522","0,37","1,036",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1240028381",NE,NE,NE,NE,NE,NE
+254,,3,77,"19,54384381","0,37","1,032",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,213083786",NE,NE,NE,NE,NE,NE
+255,,3,87,"17,28105239","0,37","1,383",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,2425934223",NE,NE,NE,NE,NE,NE
+256,,3,95,"18,67678546","0,37","1,203",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,2832998942",NE,NE,NE,NE,NE,NE
+257,,3,49,"16,90265858","0,37","1,053",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,2449318988",NE,NE,NE,NE,NE,NE
+258,,3,68,"15,55784352","0,37","1,04",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1830857849",NE,NE,NE,NE,NE,DA
+259,,3,36,"12,04703991","0,37","1,054",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1236657824",NE,NE,NE,NE,NE,NE
+260,,3,72,"20,51839939","0,37","1,053",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1736737747",NE,NE,NE,NE,NE,NE
+261,,3,94,"22,6519729","0,37","1,045",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1799520462",NE,NE,NE,NE,NE,NE
+262,,3,93,"24,5492489","0,37","1,158",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,2100260872",NE,NE,NE,NE,NE,NE
+263,,2,89,"24,00850665","0,37","1,059",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,2198397883",NE,NE,NE,NE,NE,NE
+264,,3,25,"13,16068848","0,37","1,046",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,08464327131",NE,NE,NE,NE,NE,NE
+265,,3,33,"12,93906532","0,37","1,044",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,09280678761",NE,NE,NE,NE,NE,NE
+266,,3,22,"13,04816112","0,37","1,053",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,08788421268",NE,NE,NE,NE,NE,NE
+267,,3,116,"16,94575385","0,37","1,045",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,2241400353",NE,NE,NE,DA,NE,NE
+268,,3,54,"15,24914308","0,37","1,034",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1069168769",NE,NE,NE,NE,NE,NE
+269,,3,127,"18,30867165","0,37","1,057",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,3455908191",NE,NE,NE,DA,NE,DA
+270,,3,49,"15,63616411","0,37","1,033",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1286342508",NE,NE,NE,NE,NE,NE
+271,,3,52,"13,87740634","0,37","1,036",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1865556923",NE,NE,NE,NE,NE,NE
+272,,2,60,"15,46033542","0,37","1,032",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,1013725829",NE,NE,NE,NE,NE,NE
+273,,1,76,"21,06027695","0,37","1,048",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,2990199993",NE,NE,NE,NE,NE,NE
+274,,2,75,"14,16499063","0,37","1,023",Gozd,Železna doba,DA,Čreta pri Slivnici,"0,2383208964",NE,NE,NE,NE,NE,NE
+275,,3,81,"18,68091328","0,31","1,362",Gozd,Železna doba,NE,Magdalenska gora,"0,3038864275",NE,NE,NE,NE,NE,NE
+276,,3,60,"18,42944288","0,31","1,047",Gozd,Železna doba,NE,Magdalenska gora,"0,2980153239",NE,NE,NE,NE,NE,NE
+277,,3,639,"17,63983692","0,31","1,353",Gozd,Železna doba,NE,Magdalenska gora,"0,3392180768",NE,DA,DA,NE,NE,NE
+278,,2,109,"15,60850195","0,31","1,185",Gozd,Železna doba,DA,Magdalenska gora,"0,3184131568",NE,NE,NE,NE,NE,NE
+279,,2,64,"16,85809109","0,31","1,13",Gozd,Železna doba,DA,Magdalenska gora,"0,2784349767",NE,NE,NE,NE,NE,NE
+280,,2,59,"22,44534972","0,31","1,171",Gozd,Železna doba,DA,Magdalenska gora,"0,447039127",NE,NE,NE,NE,NE,NE
+281,,2,161,"14,26509425","0,31","1,14",Gozd,Železna doba,DA,Magdalenska gora,"0,277424884",NE,NE,NE,NE,NE,NE
+282,,2,148,"18,60165811","0,31","1,077",Gozd,Železna doba,DA,Magdalenska gora,"0,2159165004",NE,NE,NE,NE,NE,NE
+283,,2,801,"16,75524191","0,31","1,083",Gozd,Železna doba,DA,Magdalenska gora,"0,2412927626",NE,NE,DA,NE,NE,NE
+284,jarek?,2,500,"13,01763643","0,31","1,316",Gozd,Železna doba,DA,Magdalenska gora,"0,2079951185",NE,NE,NE,NE,NE,NE
+285,,3,119,"10,19987142","0,31","1,015",Gozd,Železna doba,DA,Magdalenska gora,"0,1535669319",NE,NE,NE,NE,NE,NE
+286,razkopana,3,162,"10,58243639","0,31","1,959",Gozd,Železna doba,DA,Magdalenska gora,"0,1488740536",NE,NE,NE,NE,NE,NE
+287,,2,70,"13,00217347","0,31","1,274",Gozd,Železna doba,DA,Magdalenska gora,"0,2079120029",NE,NE,NE,NE,NE,NE
+288,,2,247,"12,32559587","0,222","1,041",Gozd,Železna doba,NE,Magdalenska gora,"0,1246684053",NE,NE,NE,NE,NE,NE
+289,,3,541,"20,76182521","0,31","1,047",Gozd,Železna doba,DA,Magdalenska gora,"0,2394516724",NE,NE,DA,NE,NE,NE
+290,,2,321,"22,70156483","0,31","1,072",Gozd,Železna doba,DA,Magdalenska gora,"0,3086859835",NE,NE,NE,NE,NE,NE
+291,,2,135,"15,69161399","0,31","1,306",Gozd,Železna doba,DA,Magdalenska gora,"0,2675483975",NE,NE,NE,NE,NE,NE
+292,,2,79,"14,42003429","0,31","1,052",Gozd,Železna doba,DA,Magdalenska gora,"0,2250243345",NE,NE,NE,NE,NE,NE
+293,,2,90,"13,04735559","0,31","1,019",Gozd,Železna doba,DA,Magdalenska gora,"0,1424173466",NE,NE,NE,NE,NE,NE
+294,,3,40,"17,22492131","0,31","1,069",Gozd,Železna doba,DA,Magdalenska gora,"0,2328489359",NE,NE,NE,NE,NE,NE
+295,,3,288,"17,01248088","0,31","1,052",Gozd,Železna doba,DA,Magdalenska gora,"0,3413980087",NE,NE,NE,NE,NE,NE
+296,,3,268,"19,74408178","0,222","1,053",Gozd,Železna doba,NE,Magdalenska gora,"0,3216588706",NE,DA,DA,DA,NE,NE
+297,,1,117,"14,26678485","0,31","1,123",Gozd,Železna doba,DA,Magdalenska gora,"0,1516452132",NE,NE,NE,NE,NE,NE
+298,,3,261,"16,41299937","0,222","1,016",Gozd,Železna doba,NE,Magdalenska gora,"0,3035188854",NE,NE,DA,DA,NE,NE
+299,,2,120,"8,381324531","0,222","1,042",Gozd,Železna doba,NE,Magdalenska gora,"0,08794313362",NE,NE,NE,NE,NE,NE
+300,,2,165,"9,174561053","0,222","1,281",Gozd,Železna doba,NE,Magdalenska gora,"0,114420503",NE,NE,NE,NE,NE,NE
+301,,1,186,"5,692189543","0,222","1,047",Polje,Železna doba,NE,Magdalenska gora,"0,07470513396",NE,NE,NE,NE,NE,NE
+302,,3,123,"9,930412933","0,222","1,03",Gozd,Železna doba,NE,Magdalenska gora,"0,1111637812",DA,DA,DA,DA,DA,DA
+303,,2,64,"8,825442967","0,222","1,102",Gozd,Železna doba,DA,Magdalenska gora,"0,1042738803",NE,NE,NE,NE,NE,NE
+304,,2,76,"10,91100411","0,222","1,034",Gozd,Železna doba,DA,Magdalenska gora,"0,1547329802",NE,NE,NE,NE,NE,NE
+305,,2,82,"10,77630607","0,222","1,033",Gozd,Železna doba,DA,Magdalenska gora,"0,1946449359",NE,NE,NE,NE,NE,NE
+306,,3,90,"16,88807775","0,222","1,02",Gozd,Železna doba,DA,Magdalenska gora,"0,2158985245",NE,NE,NE,NE,NE,NE
+307,,2,120,"16,41552579","0,222","1,115",Gozd,Železna doba,NE,Magdalenska gora,"0,1990887594",NE,NE,NE,DA,NE,NE
+308,,1,180,"11,71925441","0,222","1,065",Polje,Železna doba,NE,Magdalenska gora,"0,07129070708",NE,NE,NE,NE,NE,NE
+309,,1,119,"7,218251085","0,222","1,027",Polje,Železna doba,NE,Magdalenska gora,"0,06535057233",NE,NE,NE,NE,NE,NE
+310,,2,84,"11,59329747","0,222","1,086",Polje,Železna doba,NE,Magdalenska gora,"0,1941812694",NE,NE,NE,NE,NE,NE
+311,,2,59,"6,81762745","0,222","1,094",Gozd,Železna doba,NE,Magdalenska gora,"0,0767716569",NE,NE,NE,NE,NE,NE
+312,1,3,110,"19,26831091","0,3","1,022",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2886562054",NE,DA,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+313,1,3,39,"10,68341873","0,3","1,025",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,1884368583",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+314,1,3,79,"14,39398605","0,3","1,023",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2041299476",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+315,1,3,65,"18,461751","0,3","1,035",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2768956098",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+316,1,3,62,"14,69748653","0,3","1,028",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2596382172",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+317,1,3,74,"16,54573458","0,3","1,027",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2620826582",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+318,1,3,58,"14,31708302","0,3","1,019",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,253440149",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+319,1,3,64,"18,84557024","0,3","1,02",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,3331361527",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+320,1,3,54,"10,27363442","0,3","1,045",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,1650252486",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+321,1,3,64,"19,74679287","0,3","1,024",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,3297894394",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+322,1,3,63,"19,15286598","0,3","1,026",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,317339986",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+323,1,3,75,"17,74945404","0,3","1,031",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2967975455",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+324,1,3,50,"14,98172503","0,3","1,026",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,1780072265",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+325,1,3,41,"9,58029142","0,3","1,031",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,1679701133",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+326,1,3,37,"10,57002431","0,3","1,055",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,1997685159",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+327,1,3,69,"19,22432733","0,3","1,036",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,3422444826",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+328,1,3,32,"19,40960118","0,3","1,063",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,3608668658",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+329,1,3,24,"12,14467723","0,3","1,052",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,1803819756",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+330,1,3,63,"15,6280937","0,3","1,026",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2873470623",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+331,1,3,82,"22,41895848","0,3","1,018",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,3600438761",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+332,1,3,70,"17,45371259","0,3","1,042",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,1937721769",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+333,1,3,31,"14,3173343","0,3","1,064",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,1790892206",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+334,1,3,104,"18,21968072","0,3","1,025",Gozd,Rim,NE,Osek v Slovenskih Goricah,"0,2959514326",NE,DA,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+335,,3,88,"20,09888766","0,3","1,017",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2913778414",NE,DA,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+336,,3,39,"13,88261642","0,3","1,018",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2304509963",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+337,,3,49,"16,42550336","0,3","1,019",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2519635415",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+338,,3,69,"21,34186801","0,3","1,116",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,3525137299",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+339,,3,37,"20,01027796","0,3","1,055",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2738771112",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+340,,3,45,"18,61929173","0,3","1,06",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2723761518",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+341,,3,44,"12,18366823","0,3","1,034",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2459225691",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+342,,3,22,"13,64028294","0,3","1,061",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2036641833",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+343,,3,28,"15,00975817","0,3","1,04",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,3034749094",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+344,,3,26,"11,18810381","0,3","1,29",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,1393183103",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+345,,3,75,"16,42721452","0,3","1,017",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2863259588",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+346,,3,89,"18,63485731","0,3","1,009",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2961892928",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+347,,3,84,"16,87429664","0,3","1,036",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2610827107",NE,DA,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+348,,3,112,"18,03426624","0,3","1,012",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2887176376",NE,DA,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+349,,3,63,"16,25244664","0,3","1,024",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2806281372",NE,DA,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+350,,3,45,"12,0436375","0,3","1,039",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2267792957",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+351,,2,5,"11,07453371","0,3","1,091",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,1962841901",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
+352,,3,29,"14,14932119","0,3","1,022",Gozd,Rim,DA,Osek v Slovenskih Goricah,"0,2219681149",NE,NE,NE,TRENIRANJE,TRENIRANJE,TRENIRANJE
